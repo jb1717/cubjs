@@ -1,0 +1,25 @@
+{
+  "name": "cubjs",
+  "version": "0.0.1",
+  "description": "An attempt to a modern node.js framework for new and experimented devs !",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorianamouroux/cubjs.git"
+  },
+  "keywords": [
+    "framework",
+    "mvc"
+  ],
+  "author": "dorianamouroux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorianamouroux/cubjs/issues"
+  },
+  "homepage": "https://github.com/dorianamouroux/cubjs#readme"
+}
