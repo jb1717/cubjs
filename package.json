@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "An attempt to a modern node.js framework for new and experimented devs !",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
