@@ -9,7 +9,6 @@ var instance = null;
 class Cubjs {
     constructor(dirname) {
         this.config = loadConfig(dirname);
-        console.log(this.config);
     }
 
     // init function (singleton style)
